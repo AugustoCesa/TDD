@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1678737807965" clover="3.2.0">
+  <project timestamp="1678737807965" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="24" coveredconditionals="24" methods="6" coveredmethods="6" elements="51" coveredelements="51" complexity="0" loc="21" ncloc="21" packages="1" files="1" classes="1"/>
+    <file name="operacoes.js" path="C:\Users\augus\OneDrive\Documents\TDD-main\src\operacoes.js">
+      <metrics statements="21" coveredstatements="21" conditionals="24" coveredconditionals="24" methods="6" coveredmethods="6"/>
+      <line num="2" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="10" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="18" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="7" type="stmt"/>
+      <line num="26" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="29" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="33" count="7" type="stmt"/>
+      <line num="37" count="10" type="cond" truecount="4" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="41" count="9" type="stmt"/>
+      <line num="45" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="1" type="stmt"/>
+      <line num="49" count="9" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
